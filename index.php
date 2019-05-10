@@ -2,7 +2,7 @@
 <html lang="en"> 
     <head>
         <meta charset="utf-8">
-        <title>Bgstudio HTML5 Template</title>
+        <title>Infizon</title>
         <!-- Mobile Specific Meta -->
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <link href="images/favicon.png" rel="shortcut icon" />
@@ -138,7 +138,7 @@
                 <div class="row">
                     <div class="col-xs-12 text-center">
                         <div class="headding_area">
-                            <h2>About BGStudio</h2>
+                            <h2>About infizon</h2>
                             <hr />
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Aldus PageMaker including versions.</p>					
                         </div>
@@ -316,7 +316,7 @@
                     <li role="presentation"><a href="#work_us">Work with us</a></li>
                     <li role="presentation"><a href="#">Contact</a></li>
                 </ul>
-                <a class="footer_logo" href="#"><img src="images/logo.png" alt="bgstudio" /></a>
+                <a class="footer_logo" href="#"><img src="images/logo.png" alt="Infizon" /></a>
 
                 <ul class="list-inline social">
                     <li role="presentation"><a href="#"><span class="fa fa-facebook"></span></a></li>
