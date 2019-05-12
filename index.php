@@ -59,7 +59,7 @@
             </div>   
 
             <!-- Start Side Menu -->
-            <div class="side">
+            <!-- <div class="side">
                 <a class="close-side" href="#"><i class="fa fa-times"></i></a>
                 <div class="widget">
                     <h4 class="title">Menu</h6>
@@ -71,7 +71,7 @@
                             <li><a href="#">Menu-item</a></li>
                         </ul>
                 </div>
-            </div>
+            </div> -->
             <!-- End Side Menu -->
         </nav>
 
@@ -140,7 +140,7 @@
                         <div class="headding_area">
                             <h2>About infizon</h2>
                             <hr />
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Aldus PageMaker including versions.</p>					
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>					
                         </div>
                     </div>			
                 </div>
@@ -153,9 +153,9 @@
                     </div>
                     <div class="col-md-7">
                         <div class="about_right">
-                            <p>Curabitur tempus, velit ac molestie consectetur, metus ex vestibulum turpis, non blandit libero mauris non mi. Nunc egestas viverra erat, eget scelerisque nisl maximus eu. Aenean faucibus erat nec leo aliquam placerat. Nulla dignissim, ante non tristique cursus, nibh odio feugiat nunc, non tempus magna ante at sem. Praesent ac tortor magna. Cras eu dui mattis, mollis est et, bibendum urna. Integer bibendum id ligula sit amet iaculis.</p>
+                            <p>Curabitur tempus, velit ac molestie consectetur, metus ex vestibulum turpis, non blandit libero mauris non mi. Nunc egestas viverra erat, eget scelerisque nisl maximus eu. </p>
 
-                            <p>Mauris porta mattis feugiat. Sed commodo, massa quis tristique venenatis, risus sem commodo leo, id porttitor mauris purus a enim. Donec luctus neque vel pharetra maximus. Cras cursus, nisi vitae ultricies euismod, ligula leo vestibulum ipsum, a mollis leo ante non quam. Phasellus nisl ipsum, iaculis aliquet lectus sit amet, suscipit faucibus eros. Praesent metus turpis, porta hendrerit rutrum pretium, porta quis nisi. Fusce at dolor auctor, pretium elit at, elementum lacus.</p>
+                            <p>Mauris porta mattis feugiat. Sed commodo, massa quis tristique venenatis, risus sem commodo leo, id porttitor mauris purus a enim. Donec luctus neque vel pharetra maximus. </p>
 
                             <a href="#about" class="about_btn">Read our Story</a>
                         </div>
@@ -197,7 +197,7 @@
                         <div class="headding_area">
                             <h2>What we do best</h2>
                             <hr />
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Aldus PageMaker including versions.</p>		
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, .</p>		
                         </div>
                     </div>			
                 </div>
@@ -208,7 +208,7 @@
                             <img src="images/coaching_icon.png" alt="" />
 
                             <h4>One to One Coaching</h4>
-                            <p>Curabitur tempus, velit ac molestie consectetur, metus ex vestibulum turpis, non blandit libero mauris non mi. Nunc egestas viverra erat, eget scelerisque nisl maximus eu. Aenean faucibus erat nec leo aliquam placerat. Nulla dignissim, ante non tristique cursus, nibh odio feugiat nunc, non tempus magna ante at sem. Praesent ac tortor magna tempus tempus magna ante at magna. ante at. Cras eu dui mattis, mollis est et, bibendum urna. Integer bibendum id ligula sit amet iaculis.</p>
+                            <p>Curabitur tempus, velit ac molestie consectetur, metus ex vestibulum turpis, non blandit libero mauris non mi. Nunc egestas viverra erat, eget scelerisque nisl maximus eu. Aenean faucibus erat nec leo aliquam placerat. Nulla dignissim</p>
 
                             <a href="" class="service_btn get_it_btn">Get it Now</a>
                         </div>
@@ -218,7 +218,7 @@
                             <img src="images/web_icon.png" alt="" />
 
                             <h4>Website Development</h4>
-                            <p>Curabitur tempus, velit ac molestie consectetur, metus ex vestibulum turpis, non blandit libero mauris non mi. Nunc egestas viverra erat, eget scelerisque nisl maximus eu. Aenean faucibus erat nec leo aliquam placerat. Nulla dignissim, ante non tristique cursus, nibh odio feugiat nunc, non tempus magna ante at sem. Praesent ac tortor magna tempus tempus magna ante at magna. ante at. Cras eu dui mattis, mollis est et, bibendum urna. Integer bibendum id ligula sit amet iaculis.</p>
+                            <p>Curabitur tempus, velit ac molestie consectetur, metus ex vestibulum turpis, non blandit libero mauris non mi. Nunc egestas viverra erat, eget scelerisque nisl maximus eu. Aenean faucibus erat nec leo aliquam placerat. Nulla dignissim,</p>
 
                             <a href="doctor.html" class="service_btn learn_btn">Learn More</a>
                         </div>
